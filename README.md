@@ -1,7 +1,9 @@
 # Vehicle Management System
 
+
+
 ## Overview
-The Vehicle Management System is a Java-based application that utilizes Object-Oriented Programming (OOP) principles to manage different types of vehicles. The system features a `Vehicle` class as the parent class, with `Car` and `Truck` classes inheriting from it. Each class has specific attributes and methods relevant to its type, allowing for efficient vehicle management and display of information.
+The Vehicle Management System is a Java-based application that utilizes Object-Oriented Programming (OOP) principles to manage different types of vehicles. The system features a `Vehicle` class as the parent class, with `Car` and `Truck` classes inheriting from it. Each class has specific attributes and methods relevant to its type, allowing for efficient vehicle management and display of information. I used ChatGPT to help me come up with a project and tasks I needed to accomplish, but didn't use it to correct or write the code for me, as that would be silly :) 
 
 ## Features
 - **Vehicle Class**: The base class that defines common attributes such as `make`, `model`, `year`, `fuel type`, and `mileage`.
