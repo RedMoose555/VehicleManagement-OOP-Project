@@ -22,4 +22,4 @@ Throughout this project, I learned:
 - The significance of writing clear and concise documentation to make code more maintainable and understandable for others.
 
 ## Conclusion
-This project has enhanced my understanding of Java and OOP concepts while allowing me to create a functional application. I look forward to expanding this project further by adding features such as a user interface or a database for persistent storage.
+This project has enhanced my understanding of Java and OOP concepts while allowing me to create a functional application. I look forward to expanding this project further by adding features such as a user interface or a database for persistent storage :) 
